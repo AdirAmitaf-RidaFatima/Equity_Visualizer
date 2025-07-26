@@ -1,4 +1,4 @@
-# 📊 US Stock Viewer
+#  US Stock Viewer
 
 A simple and interactive Streamlit web app to explore historical stock prices and trading volume for major U.S. companies.
 
@@ -6,22 +6,22 @@ Built using [Streamlit](https://streamlit.io/) and [yfinance](https://pypi.org/p
 
 ---
 
-## 🚀 Live App
+##  Live App
 
 👉 [Click here to view the live app]([https://your-username.streamlit.app](https://equityvisualizer-by-rida-fatima.streamlit.app/))  
 ---
 
-## 🧠 Features
+## Features
 
-- 📌 Select from 50+ top U.S. companies
-- 📅 Choose custom date ranges
-- 📈 View historical **closing price** and **volume** charts
-- 📄 See basic company information (sector, market cap, currency)
-- 📊 Optional: overlay 50-day moving average
+- Select from 50+ top U.S. companies
+- Choose custom date ranges
+- View historical **closing price** and **volume** charts
+- See basic company information (sector, market cap, currency)
+- Optional: overlay 50-day moving average
 
 ---
 
-## 📦 Technologies Used
+## Technologies Used
 
 - [Streamlit](https://streamlit.io/)
 - [yfinance](https://pypi.org/project/yfinance/)
@@ -29,7 +29,7 @@ Built using [Streamlit](https://streamlit.io/) and [yfinance](https://pypi.org/p
 
 ---
 
-## 🛠️ Installation (for local use)
+## Installation (for local use)
 
 
 ### 1. Clone the repository
@@ -42,11 +42,13 @@ pip install -r requirements.txt
 ### 3. Run the app
 streamlit run stock_viewer_app.py
 
-📦 Equity_Visualizer
-├── google_Stock_app.py        # Main Streamlit app
-├── requirements.txt           # Python dependencies
-└── README.md                  # This file
+## Equity_Visualizer
+├── google_Stock_app.py        # Main Streamlit app<br>
+├── requirements.txt           # Python dependencies<br>
+└── README.md                  # This file<br>
 
-🧑‍💻 Author
-Created by Rida Fatima
+## Author
+Created by Rida Fatima <br>
 Linkedin: https://www.linkedin.com/in/rida-fatima-ned/
+
+<br>
