@@ -8,7 +8,8 @@ Built using [Streamlit](https://streamlit.io/) and [yfinance](https://pypi.org/p
 
 ##  Live App
 
-👉 [Click here to view the live app]([https://your-username.streamlit.app](https://equityvisualizer-by-rida-fatima.streamlit.app/))  
+👉 [Click here to view the live app]
+(https://equityvisualizer-by-rida-fatima.streamlit.app/))  
 ---
 
 ## Features
